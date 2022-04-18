@@ -2,5 +2,5 @@
 
 [<EntryPoint>]
 let main argv =
-    let result = Day13.solve2 ()
+    let result = Day18.solve1 ()
     0 // return an integer exit code
